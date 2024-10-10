@@ -24,8 +24,8 @@ class Bank:
         return self.summarize_amount
 
 
+print(Bank("Dair", 1500))
 
 
-# first_client = Bank('Dair', 1000 )
-# print(first_client.moneyX(1))
+
 
